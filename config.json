@@ -1,0 +1,21 @@
+{
+  "onTop": false,
+  "window": {
+    "width": 300,
+    "height": 300,
+    "posx": -300,
+    "posy": 360
+  },
+  "table": [
+    {
+      "name": "Light",
+      "recoil": [ 12, 11, 11 ],
+      "delay": [ 12, 11, 11 ]
+    },
+    {
+      "name": "Heavy",
+      "recoil": [ 12, 11, 11 ],
+      "delay": [ 12, 11, 11 ]
+    }
+  ]
+}

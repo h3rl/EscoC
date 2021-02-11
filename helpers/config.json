@@ -1,0 +1,19 @@
+{
+  "onTop": true,
+  "window": {
+    "width": 300,
+    "height": 300,
+    "posx": -300,
+    "posy": 360
+  },
+  "table": [
+    {
+      "recoil": [ 5, 4, 3 ],
+      "delay": [ 5, 5, 5 ]
+    },
+	{
+	  "recoil": [ 11, 9, 7 ],
+	  "delay": [ 4, 4, 4 ]
+    }
+  ]
+}
